@@ -10,7 +10,7 @@
     "gulpplugin"
   ],
   "dependencies": {
-    "coffee-script": "~1.8.0",
+    "coffee-script": "git://github.com/jashkenas/coffee-script.git#a78cbe78a15175452a640f2d18b8585a397e41fb",
     "through2": "^0.6.1",
     "gulp-util": "^3.0.0",
     "merge": "^1.1.3",
